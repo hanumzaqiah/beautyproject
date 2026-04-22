@@ -1,0 +1,5 @@
+<script>
+function toggleCart() {
+  document.getElementById('cart-panel').classList.toggle('open');
+}
+</script>
