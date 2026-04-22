@@ -12,7 +12,7 @@
 |----|--------|------|------------------|----------------------|--------|
 | TC-01 | Login | Login kosong | Klik login tanpa isi data | Muncul error "field harus diisi" | ✅ |
 | TC-02 | Login | Login valid | Input username & password benar | Berhasil masuk ke sistem | ✅ |
-| TC-03 | Register | Username sama | Daftar dengan username yang sudah ada | Registrasi gagal | ✅ |
+| TC-03 | Login | Username sama | Daftar dengan username yang sudah ada | Login gagal | ✅ |
 | TC-04 | Home | Selengkapnya (Shop) | Klik tombol "Selengkapnya" | Masuk ke halaman Shop | ✅ |
 | TC-05 | Home | About (Selengkapnya) | Klik tombol About | Masuk ke halaman About Us | ✅ |
 | TC-06 | Home | Analisis Kulit | Pilih tipe kulit & masalah → klik Analisis | Muncul tipe kulit + rekomendasi produk | ✅ |
