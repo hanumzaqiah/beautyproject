@@ -21,7 +21,7 @@
 | TC-09 | Home | Blog | Klik "Read More" | Masuk ke halaman Blog | ✅ |
 | TC-10 | Home | Contact | Klik "Hubungi Kami" | Masuk ke halaman Contact | ✅ |
 | TC-11 | Footer | Navigasi Footer | Klik link (Shop, About Us) | Berpindah sesuai halaman | ✅ |
-| TC-12 | Footer | Logo | Klik logo | Kembali ke Home | ✅ |
+| TC-12 | Footer | Logo | Klik logo | Kembali ke Home | ❌ |
 | TC-13 | Shop | Klik Produk | Klik salah satu produk | Masuk ke detail produk | ✅ |
 | TC-14 | Shop | Add to Cart | Klik "Add to Cart" | Produk masuk ke keranjang | ✅ |
 | TC-15 | Detail Produk | Komentar | Tambahkan komentar | Komentar tampil di bawah | ✅ |
